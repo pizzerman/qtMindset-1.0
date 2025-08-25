@@ -1,0 +1,32 @@
+[
+    {
+        "language": "english",
+        "greeting": "hello",
+        "farewell": "goodbye"
+    },
+    {
+        "language": "spanish",
+        "greeting": "hola",
+        "farewell": "adiós"   
+    },
+    {
+        "language": "portuguese",
+        "greeting": "olá",
+        "farewell": "adeus"
+    },
+    {
+        "language": "polish",
+        "greeting": "witaj",
+        "farewell": "żegnaj"
+    },
+    {
+        "language": "germany",
+        "greeting": "hallo",
+        "farewell": "tschüss"
+    },
+    {
+        "language": "hawaii",
+        "greeting": "aloha",
+        "farewell": "aloha"
+    }
+]
