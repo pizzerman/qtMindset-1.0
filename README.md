@@ -1,0 +1,1 @@
+# qtMindset-1.0
